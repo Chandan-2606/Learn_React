@@ -1,4 +1,4 @@
-# React
+# Learn_React
 
 - Components
 - JSX:Rule:: Must have one parent element.Becouse in one component return only one parent element.
@@ -35,6 +35,31 @@
 - useState:
   useState Hook allows us to track state in a functional component. State generally refers to data or preoperties that need to be tracking in an application.
 
+- useEffect:
+  useEffect Hook allows you to preform side effects in your components. Some examples of side effects are: fetchig data, directly updating the DOM etc.
+
+- PropDrilling:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+****************************************************
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -43,4 +68,3 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# Learn_React
