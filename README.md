@@ -1,5 +1,12 @@
 # Learn_React
 
+# Index:
+
+- Hooks
+- useState
+
+---
+
 - Components
 - JSX:Rule:: Must have one parent element.Becouse in one component return only one parent element.
 
@@ -12,7 +19,7 @@
   Props / Properties are arguments passed into React components. Props allows us to pass data from parent component to a chile component. EX. <img scr="likes props" alt="">.
   use::(props.name)-> destructor ({name, age, etc})
 
-- PropsChildren:use (props) -> props.children, Ues: ({children}).
+- PropsChildren:use (props) -> props.children, Ues-Destructor: ({children}).
 
 - Conditional Rendering:
   Conditional rendering allows us to dynamically display different UI components or content based on specific conditions. This enables us to create more interactive and responsive user experiences.
@@ -40,25 +47,9 @@
 
 - PropDrilling:
 
+- ContextAPI:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-****************************************************
+---
 
 # React + Vite
 
